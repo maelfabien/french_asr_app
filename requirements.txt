@@ -1,0 +1,8 @@
+streamlit==0.76.0
+torch==1.8.0
+torchaudio==0.8.0
+transformers==4.4.2
+pyspellchecker==0.6.1
+scipy==1.4.1
+sounddevice==0.4.0
+spellchecker==0.4
